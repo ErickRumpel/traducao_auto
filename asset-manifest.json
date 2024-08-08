@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/traducao_auto/static/css/main.f855e6bc.css",
+    "main.js": "/traducao_auto/static/js/main.66e587eb.js",
+    "static/js/453.cdb7aec6.chunk.js": "/traducao_auto/static/js/453.cdb7aec6.chunk.js",
+    "index.html": "/traducao_auto/index.html",
+    "main.f855e6bc.css.map": "/traducao_auto/static/css/main.f855e6bc.css.map",
+    "main.66e587eb.js.map": "/traducao_auto/static/js/main.66e587eb.js.map",
+    "453.cdb7aec6.chunk.js.map": "/traducao_auto/static/js/453.cdb7aec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.66e587eb.js"
+  ]
+}
